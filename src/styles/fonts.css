@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Ayuthaya";
+  src: url("/fonts/Ayuthaya-Regular.woff2") format("woff2"),
+       url("/fonts/Ayuthaya-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GardenaHolmes";
+  src: url("/fonts/Gardena-Holmes-Script.woff2") format("woff2"),
+       url("/fonts/Gardena-Holmes-Script.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Zapfino";
+  src: url("/fonts/Zapfino-Regular.woff2") format("woff2"),
+       url("/fonts/Zapfino-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Philosopher";
+  src: url("/fonts/Philosopher-Regular.woff2") format("woff2"),
+       url("/fonts/Philosopher-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
